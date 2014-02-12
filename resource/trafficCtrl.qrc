@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>languages/trafficCtrl_cn.qm</file>
+        <file>languages/qt_zh_CN.qm</file>
+    </qresource>
+</RCC>
